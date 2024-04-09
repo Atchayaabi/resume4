@@ -1,0 +1,41 @@
+/* styles.css */
+.resume {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    text-align: left;
+}
+
+.header h1 {
+    margin: 0;
+}
+
+.content {
+    margin-top: 20px;
+}
+
+.content h2 {
+    margin-top: 10px;
+}
+
+.experience,
+.education {
+    margin-bottom: 20px;
+}
+
+.experience h3,
+.education h3 {
+    margin-top: 0;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+ul li {
+    list-style-type: disc;
+}
